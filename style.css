@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(236, 228, 217);
+}
+
+img{
+    width: 200px;
+}
+
+input{
+    border-color: brown;
+}
+
+button{
+    border-color: brown;
+    background-color: burlywood;
+}
